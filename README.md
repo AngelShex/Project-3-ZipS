@@ -60,3 +60,5 @@ For support, queries, or suggestions, please open an issue in the repository or 
 ---
 
 *This README was last updated on May 29, 2024 @ 7:30pm.*
+
+Alyece's Contact: watsonalyece33@gmail.com
