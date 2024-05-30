@@ -64,3 +64,5 @@ For support, queries, or suggestions, please open an issue in the repository or 
 Alyece's Contact: watsonalyece33@gmail.com
 
 Angel's Contact: angeljesco@gmail.com
+
+Nate's Contact: angelshelton301@gmail.com
