@@ -46,6 +46,9 @@ A user can open up the website and prompted to login to begin. Once they have lo
 
 ## 📚 External Resources
 - [UCR BOOTCAMP](https://bootcampspot.instructure.com/courses/4877/grades) for the process of requirments of the project
+- [FontAwsome] (https://fontawesome.com/icons/react?f=brands&s=solid) for react icons
+- [SwiperApp] (https://swiperjs.com/react) for react swiper app
+- [ReactRouter] (https://reactrouter.com/en/main/start/tutorial) added new app using react router
 
   
 ## License
