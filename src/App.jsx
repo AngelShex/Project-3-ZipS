@@ -1,5 +1,6 @@
-
 import './App.css'
+
+import LayOut from './LayOut/LayOut'
 
 function App() {
   
@@ -7,7 +8,6 @@ function App() {
   return (
     <>
       
-   
     </>
   )
 }
