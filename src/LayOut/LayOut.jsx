@@ -1,13 +1,26 @@
+
 import React from 'react'
+
+import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 
 // Pages............
 import Login from '../pages/login/Login'
 import Signup from '../pages/signup/Signup'
+
 export default function LayOut() {
-    return (
-        <>
-        <Login />
-        <Signup />
-        </>
-    )
+  const router = createBrowserRouter([
+    {
+        path: '/login',
+        element : <Login />
+    },
+    {
+        path: '/login',
+        element : <Signup />
+    },
+  ])
+  return (
+    <>
+    <RouterProvider router={router} />
+    </>
+  )
 }

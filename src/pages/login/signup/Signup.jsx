@@ -1,3 +1,4 @@
+
 import './signup.css'
 
 export default function Signup() {
@@ -9,14 +10,14 @@ export default function Signup() {
                 <p>
                   Welcome to ZipS a social media app that allows you to stay connected with account followers allowing you to make posts and like them as well. 
                 </p>
-                <span>Don't Have An Account?</span>
-                <button className='btn btn-primary'>Register</button>
+                <span>Have An Account?</span>
+                <button className='btn btn-primary'>Login</button>
             </div>
             <form className="right">
                   <input type="text" required placeholder='username' />
                   <input type="email" required placeholder='email' />
                   <input type="password" required placeholder='password' />
-                  <button type='submit' className='btn'>Login</button>
+                  <button type='submit' className='btn'> Register</button>
             </form>
         </div>
         </div>
