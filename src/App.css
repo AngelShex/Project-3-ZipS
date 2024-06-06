@@ -8,7 +8,7 @@
 }
 
 :root{
-    --color-primary: #6c63ff;
+    --color-primary: #5b52f6;
     --text-color: black;
     --color-bg: rgb(236, 236, 236);
     --color-card: white;
@@ -59,6 +59,7 @@ small,p{
     border-radius: .5rem;
     font-size: .9rem;
     font-weight: 500;
+    border: none;
     transition: .3s ease;
 }
 .btn:hover{
