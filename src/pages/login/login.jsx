@@ -6,7 +6,7 @@ export default function Login() {
     <div className="login">
         <div className='card'>
             <div className="left">
-                <h2>ZipSExtra <br />-</h2>
+                <h2> -<br />ZipSExtra<br />-</h2>
                 <p>
                     Welcome user to ZipS social media webpage where you can connect, post, and like all of your fellow Zippers posts!
                 </p>
