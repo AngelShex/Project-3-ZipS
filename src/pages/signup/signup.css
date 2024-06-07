@@ -28,7 +28,7 @@
 .signup .card .Left p{
     font-size: .9rem;
 }
-.Login .card span{
+.signup .card span{
     color: var(--color-primary)
 }
 
