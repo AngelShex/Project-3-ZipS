@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './login.css'
 
 export default function Login() {
@@ -10,7 +11,9 @@ export default function Login() {
                     Welcome user to ZipS social media webpage where you can connect, post, and like all of your fellow Zippers posts!
                 </p>
                 <span>Don't Have Any Account?</span>
-                <button className='btn btn-primary'>Register</button>
+                <Link to='/signup'>
+                  <button className='btn btn-primary'>Register</button>
+                </Link>
             </div>
             <form className="right">
              <input type="text" required placeholder='username' />
@@ -18,6 +21,6 @@ export default function Login() {
              <button type='submit'>Login</button>
             </form>
         </div>
-        </div>
+    </div>
     )
 }
