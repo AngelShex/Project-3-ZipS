@@ -1,80 +1,63 @@
-html {
-    background-color: #189eb9;
-  }
-  
-  main {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .navbar {
-    width: 100%;
-  }
-  
-  .level-item {
-    gap: 5px;
-  }
-  
-  .comment-box {
-    width: 75%;
-  }
-  
-  
-  .post-btn {
-    float: right;
-  }
-  
-  .divider {
-    border-top: 3px solid #000000;
-    width: 100%; 
-  }
-  
-  
-  .login-txt {
-    padding-left: 8px;
-  }
+.Login{
+  background: var(--color-primary);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Login .card{
+  display: flex;
+ 
+  width: 580px;
+  background: white;
+  border: 1px solid white ;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.Login .card .Left{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+}
+.Login h2{
+  color: var(--color-primary);
+}
+.Login .card .Left p{
+  font-size: .9rem;
+}
+.Login .card span{
+  color: var(--color-primary)
+}
 
-  .wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .login-form {
-    margin-bottom: 20px;
-  }
-  
-  .divider {
-    display: none;
-  }
+.Login .card .right{
+  flex: 1;
+  background: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
 
-
-  .wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .logout-form {
-    flex-direction: row;
-  }
-  
-  .divider {
-    display: none;
-  }
-  
-  
-  
-  .login-button {
-    margin-left: 8px;
-  }
-  
-  .link-button {
-    background: none;
-    color: inherit;
-    border: none;
-    padding: 0;
-    font: inherit;
-    cursor: pointer;
-    outline: inherit;
-  }
+.Login form input{
+  padding: 1rem 0;
+  width: 90%;
+  background: transparent;
+  border: transparent;
+  outline: none;
+  border-bottom: 1px solid white;
+  margin: 0 auto;
+  color: white;
+}
+.Login form input::placeholder{
+  color: white;
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+.Login form .btn{
+  color: var(--color-primary);
+  margin-top: 1rem;
+}
