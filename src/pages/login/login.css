@@ -1,4 +1,4 @@
-.Login{
+.login{
   background: var(--color-primary);
   height: 100vh;
   width: 100%;
@@ -6,33 +6,33 @@
   align-items: center;
   justify-content: center;
 }
-.Login .card{
+.login .card{
   display: flex;
- 
+ align-items: center;
   width: 580px;
   background: white;
   border: 1px solid white ;
   border-radius: 2rem;
   overflow: hidden;
 }
-.Login .card .Left{
+.login .card .Left{
   flex: 1;
   display: flex;
   flex-direction: column;
   gap: 10px;
   padding: 20px;
 }
-.Login h2{
+.login h2{
   color: var(--color-primary);
 }
-.Login .card .Left p{
+.login .card .Left p{
   font-size: .9rem;
 }
-.Login .card span{
+.login .card span{
   color: var(--color-primary)
 }
 
-.Login .card .right{
+.login .card .right{
   flex: 1;
   background: var(--color-primary);
   display: flex;
@@ -42,7 +42,7 @@
   gap: 10px;
 }
 
-.Login form input{
+.login form input{
   padding: 1rem 0;
   width: 90%;
   background: transparent;
@@ -52,12 +52,12 @@
   margin: 0 auto;
   color: white;
 }
-.Login form input::placeholder{
+.login form input::placeholder{
   color: white;
   font-size: 1rem;
   text-transform: capitalize;
 }
-.Login form .btn{
+.login form .btn{
   color: var(--color-primary);
   margin-top: 1rem;
 }
