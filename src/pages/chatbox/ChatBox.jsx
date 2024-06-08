@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 
-export default function ChatBox(){
+export default function ChatBox() {
     return (
         <div>ChatBox</div>
     )
