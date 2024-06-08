@@ -60,7 +60,7 @@ Contributions to this ZipS social media website are welcome. Please follow the s
 ## Support
 For support, queries, or suggestions, please open an issue in the repository or contact the project maintainers.
 
----
+Alyece's Contact: watsonalyece33@gmail.com
 
 *This README was last updated on May 29, 2024 @ 7:30pm.*
 

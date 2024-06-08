@@ -3,14 +3,14 @@ import React from 'react'
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom'
 
 // Pages............
-import Login from '../pages/login/Login'
+import Login from '../pages/login/login'
 import Signup from '../pages/signup/Signup'
 import Home from '../pages/home/Home'
 import Profile from '../pages/profile/Profile'
 import ChatBox from '../pages/chatbox/ChatBox'
 
 // Components............
-import Nav from '../components/nav/Nav'
+import Nav from "../components/nav/Nav";
 import LeftBar from '../components/leftbar/LeftBar'
 import RightBar from '../components/rightbar/RightBar'
 
