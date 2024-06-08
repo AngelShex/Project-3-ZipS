@@ -9,16 +9,24 @@ import Home from '../pages/home/Home'
 import Profile from '../pages/profile/Profile'
 import ChatBox from '../pages/chatbox/ChatBox'
 
+// Components............
+import Nav from '../components/nav/n=Nav'
+import LeftBar from '../components/leftbar/LeftBar'
+import RightBar from '../components/rightbar/RightBar'
+
 export default function LayOut() {
 
 //Feed......
 const Feed =()=>{
     return (
         <>
+       <Nav />
         <main>
+            <LeftBar />
             <div className="container">
             <Outlet />
             </div>
+            <RightBar />
         </main>
         </>
     ) 
