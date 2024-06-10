@@ -5,7 +5,7 @@ import CoverPhoto from '../assets/img/CoverPhotos.jpg';
 const CurrentUser = [
     {
         id: 'me',
-        name : 'Beg Joker',
+        name : 'Sasuke Uchiha',
         username: '@thebegjoker',
         ProfieImage: ProfieImage,
         CoverPhoto: CoverPhoto
