@@ -13,6 +13,8 @@ export default function Nav() {
     return (
         <nav>
         <div className="nav-container">
+
+            {/*.......... NavAria Left ............*/}
             <div className="nav-left">
               <Link to='/'>
                  <h3 className='logo'>ZipSExtra</h3>
@@ -29,6 +31,7 @@ export default function Nav() {
               </div>
             </div>
 
+               {/*.......... NavAria Right ............*/}
             <div className="nav-right">
                 <Link to='/chatbox/id'>
                 <FontAwesomeIcon icon={faEnvelope} /> 
@@ -41,6 +44,7 @@ export default function Nav() {
                 </Link>
                 <div className="user">
                     <img src={CurrentUser.map(user=>(user.ProfieImage))} alt="" />
+                    <h4>Beg Joker</h4>
                 </div>
             </div>
 
