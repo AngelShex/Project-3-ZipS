@@ -19,7 +19,9 @@
     --color-border: lightgray;
     --color-red: red;
 }
-
+body{
+    overflow-x:hidden;
+}
 .container{
     max-width: 991px;
     width: 100%;
