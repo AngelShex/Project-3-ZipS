@@ -1,4 +1,4 @@
-import React from 'react'
+import React from './nav.css'
 import { Link } from 'react-router-dom'
 
 // Fake Api Data...........
@@ -44,7 +44,7 @@ export default function Nav() {
                 </Link>
                 <div className="user">
                     <img src={CurrentUser.map(user=>(user.ProfieImage))} alt="" />
-                    <h4>Beg Joker</h4>
+                    <h4>Saskue Uchiha</h4>
                 </div>
             </div>
 

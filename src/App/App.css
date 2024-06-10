@@ -5,6 +5,9 @@
     text-align: none;
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    outline: none;
+    border: none;
 }
 
 :root{
