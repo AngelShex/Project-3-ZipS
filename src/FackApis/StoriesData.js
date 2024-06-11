@@ -23,55 +23,55 @@ import Story9 from "../assets/img/story9.jpg";
 const Stories =[
     {
         id: 1, 
-        name: 'Irfan Nazir',
+        name: 'Emmi Watson',
         storyProfile: StoryProfile1,
         story: Story1
     },     
     {
         id: 2, 
-        name: 'Alyxa Doie',
+        name: 'Andrew Grasias',
         storyProfile:StoryProfile2,
         story: Story2
     },     
     {
         id: 3, 
-        name: 'David Mark',
+        name: 'Sydne Swetne',
         storyProfile: StoryProfile3,
         story: Story3
     },     
     {
         id: 4, 
-        name: 'Khatrin Frue',
+        name: 'Anthony Hailey',
         storyProfile: StoryProfile4,
         story: Story4
     },     
     {
         id: 5, 
-        name: 'Akib Khan',
+        name: 'Brianna Lunkin',
         storyProfile: StoryProfile5,
         story: Story5
     },     
     {
         id: 6, 
-        name: 'Puza Sing',
+        name: 'Berry Drew',
         storyProfile: StoryProfile6,
         story: Story6
     },     
     {
         id: 7, 
-        name: 'Samira Mahi',
+        name: 'Sabbrina Fartner',
         storyProfile: StoryProfile7,
         story: Story7
     },     
     {
         id: 8, 
-        name: 'Saima Abir',
+        name: 'Ethan Hater',
         storyProfile: StoryProfile8,
         story: Story8
     },     
     {
         id: 9, 
-        name: 'Neha Shill',
+        name: 'Arianna Blondea',
         storyProfile: StoryProfile9,
         story: Story9
     },     

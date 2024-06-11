@@ -1,4 +1,4 @@
-import React from 'react'
+import './stories.css'
 
 //Fake Apis..........
 import {Swiper, SwiperSlide} from 'swiper/react'
@@ -28,6 +28,8 @@ export default function Stories() {
                   <div className="user">
                     <img src={story.storyProfile} alt="" />
                   </div>
+                  <img src={story.story} alt="" />
+                  <h5>{story.name}</h5>
                 </div>
               </SwiperSlide>
                  ))
