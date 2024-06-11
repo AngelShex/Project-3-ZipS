@@ -1,7 +1,10 @@
-import React from 'react'
+//componets 
+import Stories from '../../components/stories/Stories'
 
 export default function Home() {
     return (
-        <div>Home</div>
+        <>
+         <Stories />
+        </>
     )
 }
