@@ -1,8 +1,8 @@
-import React from './rightBar.css';
+import './rightBar.css'; 
 
 //Components ...............
-import Message from '../message/Message'
-import FirendReqe from '../firendReqe/firendReqe'
+import Message from '../message/Message';
+import FirendReqe from '../firendReqe/FirendReqe';
 
 export default function RightBar() {
     return (
