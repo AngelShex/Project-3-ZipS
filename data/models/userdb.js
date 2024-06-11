@@ -5,7 +5,7 @@ const userSchema = new Schema(
   {
     first: String,
     last: String,
-    age: Number,
+   
     applications: [
       {
         type: Schema.Types.ObjectId,
