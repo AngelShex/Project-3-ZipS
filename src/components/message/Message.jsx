@@ -32,6 +32,7 @@ export default function Message() {
                           </div>
                           <div className="message-body">
                             <h5>{mess.name}</h5>
+                            <p>{mess.mText}</p>
                           </div>
                         </div>
                     </Link>
