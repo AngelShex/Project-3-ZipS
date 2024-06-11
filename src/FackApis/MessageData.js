@@ -11,31 +11,31 @@ const Messages =[
         id: 1,
         name: 'Ahammed Alli',
         img: MeessageImage1,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: 'Just came back from a swim.'
     },
     {
         id: 2,
         name: 'Mark William',
         img: MeessageImage2,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: 'Finally getting active.'
     },
     {
         id: 3,
         name: 'Ranvir Sing',
         img: MeessageImage3,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: 'Godzilla Minus One was so good!'
     },
     {
         id: 4,
         name: 'Happy Rose',
         img: MeessageImage4,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: 'This project has me stressed.'
     },
     {
         id: 5,
         name: 'Angela Flower',
         img: MeessageImage5,
-        mText: 'Lorem ipsum dolor sit amet.'
+        mText: 'What a nice day out.'
     },
 ];
 
