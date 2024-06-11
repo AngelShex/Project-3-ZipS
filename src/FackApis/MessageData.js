@@ -9,19 +9,19 @@ import MeessageImage5 from '../assets/img/MessageProfile6.jpg'
 const Messages =[
     {
         id: 1,
-        name: 'Ahammed Alli',
+        name: 'Eve West',
         img: MeessageImage1,
         mText: 'Lorem ipsum dolor sit amet.'
     },
     {
         id: 2,
-        name: 'Mark William',
+        name: 'David Victor',
         img: MeessageImage2,
         mText: 'Lorem ipsum dolor sit amet.'
     },
     {
         id: 3,
-        name: 'Ranvir Sing',
+        name: 'Machile Wavey',
         img: MeessageImage3,
         mText: 'Lorem ipsum dolor sit amet.'
     },
