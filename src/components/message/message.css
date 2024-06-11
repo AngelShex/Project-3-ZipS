@@ -28,5 +28,16 @@
     height: .1rem;
     background: var(--color-bg);
     margin-bottom: 20px;
-    
+}
+.message .user{
+    position: relative;
+}
+.green-active{
+    height: 10px;
+    width: 10px;
+    background: var(--color-primary);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 50%;
 }
