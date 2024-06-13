@@ -12,3 +12,18 @@
     width: 80%;
     margin: 0 auto;
 }
+
+/* ...............Start Media Scrin......... */
+
+
+@media (max-width:1024px) {
+    .rightbar-container{
+        width: 90px;
+
+    }
+}
+@media (max-width:768px) {
+    .rightBar{
+        display: none;
+    }
+}
