@@ -5,4 +5,3 @@ export const post = {
     creator: "sampleUser",
     date_created: new Date(),
   };
-  
