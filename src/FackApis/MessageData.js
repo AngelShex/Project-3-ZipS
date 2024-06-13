@@ -1,3 +1,4 @@
+import { Messages } from 'mongoose';
 
 import MeessageImage1 from '../assets/img/MessageProfile1.png'
 import MeessageImage2 from '../assets/img/MessageProfile2.jpg'
