@@ -1,5 +1,3 @@
-import { Comments } from 'mongoose';
-
 import Comment1 from '../assets/img/FeedProfile3.jpg';
 import Comment2 from '../assets/img/FeedProfile12.jpg';
 

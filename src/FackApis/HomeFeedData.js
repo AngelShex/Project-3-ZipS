@@ -1,4 +1,3 @@
-import { Feeds} from 'mongoose';
 
 import feedProfile1 from '../assets/img/FeedProfile1.jpg';
 import feedProfile2 from '../assets/img/FeedProfile2.jpg';

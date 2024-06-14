@@ -1,4 +1,3 @@
-import { Firends} from 'mongoose';
 
 import FirendImage1 from '../assets/img/FirendReq1.jpg'
 import FirendImage2 from '../assets/img/FirendReq1.webp'
