@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS zip_blog_db; 
+
+CREATE DATABASE zip_blog_db;

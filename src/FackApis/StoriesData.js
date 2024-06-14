@@ -1,4 +1,3 @@
-import { Stories } from 'mongoose';
 
 import StoryProfile1 from "../assets/img/storyProfile1.jpg";
 import StoryProfile2 from "../assets/img/StoryProfile2.jpg";
