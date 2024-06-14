@@ -11,7 +11,7 @@ import { faImage, faSmile, faVideo, faTags } from '@fortawesome/free-solid-svg-i
 
 export default function AddPost() {
     return (
-        <form>
+        <form className='postForm'>
             <div className="user form-top">
                 <img src={CurrentUserData.map(user=>(user.ProfieImage))} alt="" />
                 <input type="text" placeholder="What's on your mind ?" />
@@ -19,15 +19,15 @@ export default function AddPost() {
             </div>
             <div className="post-categories">
                 <label htmlFor="file">
-                    <input type="file" />
-                    <span><FontAwesomeIcon icon={faImage} /> </span>
+                    <input type="file" id='file'/>
+                    <span><FontAwesomeIcon icon={faImage} /> Photos</span>
                 </label>
                 <label htmlFor="file">
-                    <input type="file" />
-                    <span><FontAwesomeIcon icon={faVideo} /> </span>
+                    <input type="file" id='file' />
+                    <span><FontAwesomeIcon icon={faVideo} /> Videos</span>
                 </label>
-                <span><FontAwesomeIcon icon={faTags} /> </span>
-                <span><FontAwesomeIcon icon={faSmile} /> </span>
+                <span><FontAwesomeIcon icon={faTags} /> Tag</span>
+                <span><FontAwesomeIcon icon={faSmile} /> Feelings</span>
             </div>
         </form>
     )
