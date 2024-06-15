@@ -53,7 +53,7 @@ const Stories =[
     },     
     {
         id: 6, 
-        name: 'Berry Drew',
+        name: 'Stassi Flossi',
         storyProfile: StoryProfile6,
         story: Story6
     },     
