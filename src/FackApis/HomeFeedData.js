@@ -35,7 +35,7 @@ const Feeds =[
         name: 'Hamniek Hike',
         feedImage: FeedImage1,
         feedProfile: feedProfile1,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'This is me this exactly where I wanna be now'
     },
     {
         id: 3,
@@ -43,7 +43,7 @@ const Feeds =[
         name: 'Aria Splinter',
         feedImage: FeedImage3,
         feedProfile: feedProfile3,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'In hopes your on the otherside talking to the moon'
     },
     {
         id: 4,
@@ -51,7 +51,7 @@ const Feeds =[
         name: 'Rizzy Blizzy',
         feedImage: FeedImage4,
         feedProfile: feedProfile4,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'I choose to be happy you and I will never die'
     },
     {
         id: 5,
@@ -59,7 +59,7 @@ const Feeds =[
         name: 'Lady FaFa',
         feedImage: FeedImage5,
         feedProfile: feedProfile5,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'What did you say oh let party oh'
     },
     {
         id: 6,
@@ -67,7 +67,7 @@ const Feeds =[
         name: 'Taylor Paddison',
         feedImage: FeedImage6,
         feedProfile: feedProfile6,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Have you heard of the muffin man'
     },
     {
         id: 7,
@@ -75,7 +75,7 @@ const Feeds =[
         name: 'Gina Flonderwood',
         feedImage: FeedImage7,
         feedProfile: feedProfile7,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Did you know that if you know you now know'
     },
     {
         id: 8,
@@ -83,7 +83,7 @@ const Feeds =[
         name: 'Bailey Nailan',
         feedImage: FeedImage8,
         feedProfile: feedProfile8,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Dont comment on this post if you do I know you like me'
     },  
     {
         id: 10,
@@ -91,7 +91,7 @@ const Feeds =[
         name: 'Elivis Patis',
         feedImage: FeedImage10,
         feedProfile: feedProfile10,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Im a family man just me and my dog all the family I need'
     },
     {
         id: 11,
@@ -99,15 +99,15 @@ const Feeds =[
         name: 'Sara No Faira',
         feedImage: FeedImage11,
         feedProfile: feedProfile11,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Why cry when you can be fly'
     },
     {
         id: 12,
         userid: 12,
-        name: 'Berry Fookin',
+        name: 'Berry Flookin',
         feedImage: FeedImage12,
         feedProfile: feedProfile12,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'I like to go on adventures as you can see'
     },
     {
         id: 13,
@@ -115,7 +115,7 @@ const Feeds =[
         name: 'Taylor Bliff',
         feedImage: FeedImage13,
         feedProfile: feedProfile13,
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, distinctio'
+        desc: 'Do you guys think ketchup is a little spicy too'
     },
 ];
 
