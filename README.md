@@ -41,7 +41,7 @@ A user can open up the website and prompted to login to begin. Once they have lo
 4. Login and begin to make posts within the website.
 
 ## Technologies Used
-- 
+- React
 
 
 ## 📚 External Resources
